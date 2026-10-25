@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for auditing APEX RUSH F1, introducing real F1 constructors and drivers (Red Bull, Ferrari, Mercedes, McLaren, etc.), adding a prominent pre-race team picker on the main menu, and verifying codebase stability, delta-time safety, collision handling, and production build readiness.",
+  "updatedAt":  "2026-10-25T15:55:59.819720742Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

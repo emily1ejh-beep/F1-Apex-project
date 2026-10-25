@@ -1,0 +1,6 @@
+{
+  "name": "APEX RUSH F1",
+  "description": "High-octane 2D Formula racing simulation with realistic physics, custom circuits, AI grid, and vibrant neon underglow LED styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
